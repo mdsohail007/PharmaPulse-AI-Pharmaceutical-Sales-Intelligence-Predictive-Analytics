@@ -1,0 +1,1729 @@
+sales_date,product_id,product_name,therapeutic_category,dosage_form,region,sales_channel,units_sold,unit_price_usd,discount_rate,net_sales_usd
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,706,12.28,0.0,8666.15
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,815,12.28,0.03,9704.0
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,636,12.28,0.08,7182.35
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,740,12.43,0.05,8734.77
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,796,12.43,0.03,9593.59
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,953,12.43,0.08,10893.74
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,782,12.57,0.05,9341.97
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,890,12.57,0.0,11191.75
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,951,12.57,0.0,11958.82
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,907,12.72,0.03,11195.33
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,873,12.72,0.0,11108.92
+2025-01-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1094,12.72,0.05,13225.09
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,723,17.68,0.0,12779.75
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,879,17.68,0.0,15537.2
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,940,17.68,0.03,16116.98
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,1006,17.89,0.08,16559.4
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,825,17.89,0.0,14760.9
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,1011,17.89,0.0,18088.81
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,844,18.11,0.03,14824.66
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,836,18.11,0.03,14684.14
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1076,18.11,0.05,18510.0
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,782,18.32,0.0,14329.37
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,897,18.32,0.05,15614.8
+2025-01-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1053,18.32,0.0,19295.17
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,923,15.22,0.0,14048.98
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,978,15.22,0.0,14886.14
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1008,15.22,0.03,14882.48
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,739,15.41,0.05,10816.48
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,904,15.41,0.03,13510.09
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,991,15.41,0.0,15268.34
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,842,15.59,0.03,12735.43
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,809,15.59,0.05,11984.0
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1090,15.59,0.03,16486.48
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,1061,15.78,0.0,16741.52
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1008,15.78,0.0,15905.23
+2025-01-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1227,15.78,0.0,19360.83
+2025-01-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,784,9.33,0.0,7313.94
+2025-01-01,P004,PainEase,Pain Management,Tablets,North,Hospital,883,9.33,0.0,8237.51
+2025-01-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1072,9.33,0.03,9700.67
+2025-01-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,918,9.44,0.05,8235.24
+2025-01-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1108,9.44,0.0,10462.84
+2025-01-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1160,9.44,0.0,10953.88
+2025-01-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,971,9.56,0.0,9279.85
+2025-01-01,P004,PainEase,Pain Management,Tablets,East,Hospital,933,9.56,0.03,8649.18
+2025-01-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1088,9.56,0.03,10086.08
+2025-01-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1118,9.67,0.03,10487.81
+2025-01-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1214,9.67,0.0,11740.59
+2025-01-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1139,9.67,0.03,10684.81
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,805,83.47,0.0,67193.35
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,904,83.47,0.08,69420.33
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1185,83.47,0.03,95944.59
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,999,84.49,0.08,77653.07
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1067,84.49,0.05,85643.29
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1055,84.49,0.0,89136.95
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,973,85.51,0.08,76545.13
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1271,85.51,0.0,108683.21
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1289,85.51,0.03,106915.72
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1061,86.53,0.05,87217.91
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1217,86.53,0.05,100041.66
+2025-01-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1309,86.53,0.03,109869.74
+2025-01-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1273,21.6,0.03,26676.84
+2025-01-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1010,21.6,0.0,21820.04
+2025-01-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1243,21.6,0.03,26048.16
+2025-01-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1230,21.87,0.0,26897.64
+2025-01-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1391,21.87,0.03,29505.84
+2025-01-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1167,21.87,0.08,23478.36
+2025-01-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1118,22.13,0.0,24743.58
+2025-01-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1328,22.13,0.0,29391.3
+2025-01-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1087,22.13,0.03,23335.76
+2025-01-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1261,22.4,0.0,28241.36
+2025-01-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1579,22.4,0.03,34302.39
+2025-01-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1418,22.4,0.03,30804.8
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,873,13.75,0.0,12002.0
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1109,13.75,0.03,14789.14
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1201,13.75,0.0,16511.35
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1348,13.92,0.05,17820.83
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1247,13.92,0.03,16832.65
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1082,13.92,0.03,14605.4
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1241,14.08,0.05,16604.33
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1337,14.08,0.0,18830.31
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1306,14.08,0.0,18393.7
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1153,14.25,0.03,15939.58
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1697,14.25,0.05,22976.36
+2025-01-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1570,14.25,0.0,22375.64
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1365,26.51,0.0,36191.61
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1278,26.51,0.0,33884.89
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1267,26.51,0.0,33593.24
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1214,26.84,0.0,32581.33
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1152,26.84,0.05,29371.51
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1673,26.84,0.05,42654.98
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1310,27.16,0.03,34514.75
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1604,27.16,0.05,41389.46
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1395,27.16,0.0,37890.99
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1442,27.49,0.05,37653.07
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1473,27.49,0.08,37247.93
+2025-01-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1275,27.49,0.0,35044.65
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,855,12.28,0.0,10495.12
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,757,12.28,0.03,9013.41
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,757,12.28,0.0,9292.18
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,823,12.43,0.08,9407.71
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,840,12.43,0.0,10437.0
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,946,12.43,0.0,11754.05
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,826,12.57,0.03,10075.34
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,688,12.57,0.03,8392.05
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,872,12.57,0.03,10636.44
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,784,12.72,0.05,9477.58
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,1035,12.72,0.05,12511.86
+2025-02-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1015,12.72,0.0,12915.88
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,845,17.68,0.0,14936.22
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,842,17.68,0.03,14436.7
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,1001,17.68,0.08,16278.18
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,837,17.89,0.08,13777.56
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,900,17.89,0.03,15619.72
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,1014,17.89,0.0,18142.49
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,910,18.11,0.0,16478.28
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,1244,18.11,0.03,21850.56
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,946,18.11,0.05,16273.66
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,797,18.32,0.05,13874.02
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1058,18.32,0.0,19386.79
+2025-02-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1006,18.32,0.05,17512.25
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,675,15.22,0.03,9965.95
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,844,15.22,0.05,12204.2
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1279,15.22,0.0,19467.66
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,844,15.41,0.03,12613.4
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,811,15.41,0.03,12120.22
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1332,15.41,0.0,20522.12
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,865,15.59,0.05,12813.55
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1395,15.59,0.0,21752.24
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1082,15.59,0.0,16871.63
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,1231,15.78,0.0,19423.95
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1076,15.78,0.08,15619.95
+2025-02-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1234,15.78,0.0,19471.29
+2025-02-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,953,9.33,0.0,8890.54
+2025-02-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1012,9.33,0.0,9440.95
+2025-02-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1140,9.33,0.0,10635.06
+2025-02-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1070,9.44,0.03,9800.89
+2025-02-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1108,9.44,0.0,10462.84
+2025-02-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1168,9.44,0.05,10477.95
+2025-02-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,982,9.56,0.0,9384.97
+2025-02-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1127,9.56,0.0,10770.74
+2025-02-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1421,9.56,0.0,13580.5
+2025-02-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1023,9.67,0.0,9893.43
+2025-02-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1223,9.67,0.0,11827.63
+2025-02-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1426,9.67,0.0,13790.85
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1106,83.47,0.0,92317.82
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1237,83.47,0.08,94992.2
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1048,83.47,0.05,83102.73
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1132,84.49,0.03,92773.4
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1134,84.49,0.0,95811.66
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1209,84.49,0.03,99083.96
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1337,85.51,0.03,110897.06
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1190,85.51,0.03,98704.19
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1336,85.51,0.0,114241.36
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,967,86.53,0.0,83674.51
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1514,86.53,0.0,131006.42
+2025-02-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1472,86.53,0.0,127372.16
+2025-02-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1126,21.6,0.03,23596.32
+2025-02-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1161,21.6,0.08,23075.66
+2025-02-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1359,21.6,0.03,28479.04
+2025-02-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1337,21.87,0.03,28360.39
+2025-02-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1497,21.87,0.03,31754.3
+2025-02-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1448,21.87,0.03,30714.92
+2025-02-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1242,22.13,0.0,27487.94
+2025-02-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1447,22.13,0.0,32025.0
+2025-02-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1496,22.13,0.05,31454.0
+2025-02-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1293,22.4,0.03,28089.29
+2025-02-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1467,22.4,0.05,31212.19
+2025-02-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1542,22.4,0.08,31771.86
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1207,13.75,0.08,15266.33
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1214,13.75,0.03,16189.37
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1456,13.75,0.05,19016.23
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1124,13.92,0.0,15641.58
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1158,13.92,0.0,16114.73
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1458,13.92,0.03,19680.84
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1404,14.08,0.03,19180.72
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1434,14.08,0.05,19186.63
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1526,14.08,0.03,20847.42
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1054,14.25,0.08,13819.88
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1531,14.25,0.0,21819.81
+2025-02-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1756,14.25,0.03,24275.72
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1421,26.51,0.05,35792.57
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1494,26.51,0.0,39611.92
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1480,26.51,0.05,37278.68
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1389,26.84,0.0,37277.98
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1398,26.84,0.0,37519.52
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1556,26.84,0.08,38419.13
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1235,27.16,0.0,33545.07
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1711,27.16,0.03,45079.96
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1402,27.16,0.05,36177.07
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1584,27.49,0.0,43537.82
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1744,27.49,0.05,45538.8
+2025-02-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1740,27.49,0.0,47825.64
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,928,12.28,0.03,11049.46
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,636,12.28,0.03,7572.69
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,844,12.28,0.0,10360.1
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,905,12.43,0.05,10682.39
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,747,12.43,0.03,9003.03
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,858,12.43,0.0,10660.65
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,891,12.57,0.05,10644.11
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,775,12.57,0.08,8965.98
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,997,12.57,0.0,12537.27
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,939,12.72,0.0,11948.77
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,983,12.72,0.0,12508.67
+2025-03-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1068,12.72,0.0,13590.3
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,762,17.68,0.0,13469.11
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,919,17.68,0.0,16244.24
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,932,17.68,0.03,15979.81
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,852,17.89,0.0,15243.98
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,1037,17.89,0.03,17997.38
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,880,17.89,0.0,15744.96
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,692,18.11,0.0,12530.74
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,1084,18.11,0.08,18058.75
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1100,18.11,0.03,19321.24
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,1122,18.32,0.0,20559.53
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,965,18.32,0.0,17682.66
+2025-03-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1116,18.32,0.05,19427.1
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,920,15.22,0.05,13303.15
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,921,15.22,0.05,13317.61
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,957,15.22,0.0,14566.5
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,1047,15.41,0.08,14840.64
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,880,15.41,0.0,13558.16
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,984,15.41,0.0,15160.49
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,999,15.59,0.05,14798.54
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1198,15.59,0.0,18680.41
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1094,15.59,0.08,15694.04
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,989,15.78,0.05,14825.16
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1116,15.78,0.03,17081.08
+2025-03-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1261,15.78,0.08,18305.53
+2025-03-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,959,9.33,0.03,8678.12
+2025-03-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1195,9.33,0.03,10813.71
+2025-03-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1284,9.33,0.0,11978.44
+2025-03-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1033,9.44,0.0,9754.62
+2025-03-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1361,9.44,0.0,12851.92
+2025-03-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1205,9.44,0.0,11378.81
+2025-03-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,1228,9.56,0.0,11736.0
+2025-03-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1216,9.56,0.03,11272.67
+2025-03-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1290,9.56,0.0,12328.53
+2025-03-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,951,9.67,0.03,8921.21
+2025-03-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1075,9.67,0.0,10396.32
+2025-03-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1257,9.67,0.03,11791.75
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1213,83.47,0.03,98211.64
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1200,83.47,0.05,95155.8
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1192,83.47,0.03,96511.35
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1210,84.49,0.05,97121.25
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1348,84.49,0.0,113892.52
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1282,84.49,0.0,108316.18
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1214,85.51,0.05,98618.68
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1271,85.51,0.08,99988.55
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1325,85.51,0.03,109901.73
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1131,86.53,0.0,97865.43
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1188,86.53,0.03,99713.71
+2025-03-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1477,86.53,0.0,127804.81
+2025-03-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1306,21.6,0.0,28214.82
+2025-03-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1203,21.6,0.0,25989.61
+2025-03-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1271,21.6,0.0,27458.68
+2025-03-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,975,21.87,0.0,21321.3
+2025-03-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1012,21.87,0.05,21023.9
+2025-03-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1570,21.87,0.0,34332.76
+2025-03-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1170,22.13,0.0,25894.44
+2025-03-01,P006,DermaClear,Dermatology,Cream,East,Hospital,909,22.13,0.08,18508.55
+2025-03-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1793,22.13,0.05,37698.54
+2025-03-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1241,22.4,0.03,26959.63
+2025-03-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1158,22.4,0.0,25934.57
+2025-03-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1486,22.4,0.0,33280.46
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1361,13.75,0.03,18149.7
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1424,13.75,0.0,19577.15
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1538,13.75,0.08,19452.87
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1166,13.92,0.05,15414.75
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1579,13.92,0.0,21973.36
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1675,13.92,0.0,23309.3
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1571,14.08,0.05,21019.67
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1470,14.08,0.03,20082.38
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1444,14.08,0.0,20337.3
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1338,14.25,0.0,19069.18
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1228,14.25,0.0,17501.46
+2025-03-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1464,14.25,0.03,20238.98
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,989,26.51,0.0,26222.35
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1153,26.51,0.05,29042.11
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1527,26.51,0.03,39272.27
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1351,26.84,0.05,34445.23
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1496,26.84,0.0,40149.65
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1657,26.84,0.0,44470.57
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1502,27.16,0.03,39573.4
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1564,27.16,0.05,40357.3
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1574,27.16,0.08,39332.75
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1370,27.49,0.05,35773.03
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1354,27.49,0.03,36099.56
+2025-03-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1549,27.49,0.0,42575.81
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,738,12.28,0.08,8334.23
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,823,12.28,0.0,10102.33
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,982,12.28,0.0,12054.05
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,781,12.43,0.08,8927.61
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,923,12.43,0.0,11468.28
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,793,12.43,0.0,9853.03
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,872,12.57,0.05,10417.13
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,941,12.57,0.08,10886.43
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,1143,12.57,0.03,13942.03
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,873,12.72,0.08,10220.21
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,714,12.72,0.08,8358.8
+2025-04-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1013,12.72,0.05,12245.9
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,895,17.68,0.05,15029.02
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,787,17.68,0.03,13493.68
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,1004,17.68,0.08,16326.97
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,762,17.89,0.0,13633.7
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,1148,17.89,0.05,19513.02
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,982,17.89,0.0,17569.94
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,801,18.11,0.05,13779.28
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,949,18.11,0.08,15809.73
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1111,18.11,0.08,18508.55
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,1041,18.32,0.05,18121.52
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1208,18.32,0.03,21471.33
+2025-04-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1054,18.32,0.08,17768.42
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,993,15.22,0.0,15114.45
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,806,15.22,0.0,12268.13
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,943,15.22,0.03,13922.8
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,815,15.41,0.05,11928.87
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,949,15.41,0.05,13890.18
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1204,15.41,0.0,18550.03
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,950,15.59,0.03,14368.95
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1040,15.59,0.0,16216.72
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1202,15.59,0.03,18180.5
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,1126,15.78,0.0,17767.15
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1093,15.78,0.03,16729.05
+2025-04-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1079,15.78,0.05,16174.26
+2025-04-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,1180,9.33,0.05,10457.81
+2025-04-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1028,9.33,0.03,9302.51
+2025-04-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1111,9.33,0.0,10364.52
+2025-04-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1031,9.44,0.0,9735.73
+2025-04-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1200,9.44,0.0,11331.6
+2025-04-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1004,9.44,0.05,9006.73
+2025-04-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,1355,9.56,0.0,12949.74
+2025-04-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1135,9.56,0.0,10847.19
+2025-04-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1339,9.56,0.08,11773.08
+2025-04-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,994,9.67,0.03,9324.58
+2025-04-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1253,9.67,0.08,11148.34
+2025-04-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1572,9.67,0.0,15202.81
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1288,83.47,0.0,107509.36
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1237,83.47,0.0,103252.39
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1118,83.47,0.03,90519.88
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1292,84.49,0.0,109161.08
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,987,84.49,0.05,79222.05
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1160,84.49,0.0,98008.4
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1180,85.51,0.0,100901.8
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1039,85.51,0.08,81737.3
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1262,85.51,0.05,102517.94
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1350,86.53,0.03,113311.04
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1213,86.53,0.0,104960.89
+2025-04-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1519,86.53,0.0,131439.07
+2025-04-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1482,21.6,0.03,31056.61
+2025-04-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1301,21.6,0.05,26701.46
+2025-04-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1442,21.6,0.03,30218.38
+2025-04-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1394,21.87,0.03,29569.47
+2025-04-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1237,21.87,0.0,27050.72
+2025-04-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1494,21.87,0.0,32670.79
+2025-04-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1212,22.13,0.08,24678.07
+2025-04-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1398,22.13,0.0,30940.54
+2025-04-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1575,22.13,0.08,32069.27
+2025-04-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1207,22.4,0.0,27031.97
+2025-04-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1043,22.4,0.0,23359.03
+2025-04-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1328,22.4,0.03,28849.63
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1414,13.75,0.0,19439.67
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1182,13.75,0.0,16250.14
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1571,13.75,0.03,20950.16
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1179,13.92,0.0,16406.96
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1351,13.92,0.0,18800.52
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1458,13.92,0.0,20289.53
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1207,14.08,0.0,16999.39
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1403,14.08,0.03,19167.06
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1250,14.08,0.0,17605.0
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1359,14.25,0.05,18400.04
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1473,14.25,0.0,20993.2
+2025-04-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1169,14.25,0.03,16160.77
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1208,26.51,0.0,32028.91
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1464,26.51,0.08,35711.18
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1306,26.51,0.03,33588.47
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1466,26.84,0.0,39344.51
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1560,26.84,0.0,41867.28
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1593,26.84,0.0,42752.93
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1573,27.16,0.0,42725.83
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1250,27.16,0.03,32933.92
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1774,27.16,0.03,46739.83
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1331,27.49,0.05,34754.67
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1591,27.49,0.05,41543.71
+2025-04-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1976,27.49,0.0,54312.34
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,700,12.28,0.05,8162.88
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,805,12.28,0.08,9090.86
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,776,12.28,0.03,9239.64
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,941,12.43,0.0,11691.93
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,765,12.43,0.0,9505.12
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,996,12.43,0.03,12004.04
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,951,12.57,0.0,11958.82
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,982,12.57,0.0,12348.65
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,1017,12.57,0.0,12788.77
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,892,12.72,0.0,11350.7
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,816,12.72,0.05,9864.42
+2025-05-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1233,12.72,0.0,15689.92
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,839,17.68,0.03,14385.26
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,890,17.68,0.0,15731.64
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,842,17.68,0.0,14883.19
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,872,17.89,0.08,14353.68
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,934,17.89,0.0,16711.13
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,1221,17.89,0.03,21190.75
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,918,18.11,0.05,15791.99
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,995,18.11,0.03,17476.94
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,932,18.11,0.0,16876.66
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,885,18.32,0.03,15730.24
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1102,18.32,0.03,19587.26
+2025-05-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,886,18.32,0.0,16235.06
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,1002,15.22,0.0,15251.44
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,1087,15.22,0.0,16545.23
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,945,15.22,0.03,13952.33
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,988,15.41,0.03,14765.45
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1174,15.41,0.03,17545.18
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1080,15.41,0.08,15308.4
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,965,15.59,0.03,14595.83
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1050,15.59,0.05,15554.02
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1181,15.59,0.0,18415.33
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,976,15.78,0.05,14630.29
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1073,15.78,0.03,16422.94
+2025-05-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1236,15.78,0.08,17942.62
+2025-05-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,930,9.33,0.0,8675.97
+2025-05-01,P004,PainEase,Pain Management,Tablets,North,Hospital,917,9.33,0.03,8298.05
+2025-05-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,890,9.33,0.05,7887.67
+2025-05-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1039,9.44,0.03,9516.94
+2025-05-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1262,9.44,0.05,11321.21
+2025-05-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1235,9.44,0.03,11312.24
+2025-05-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,946,9.56,0.08,8317.65
+2025-05-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1059,9.56,0.05,9614.82
+2025-05-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1186,9.56,0.0,11334.6
+2025-05-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1375,9.67,0.0,13297.62
+2025-05-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1473,9.67,0.0,14245.38
+2025-05-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1540,9.67,0.05,14148.67
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1085,83.47,0.0,90564.95
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1557,83.47,0.03,126063.91
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1117,83.47,0.03,90438.91
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1073,84.49,0.03,87938.04
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1317,84.49,0.0,111273.33
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1306,84.49,0.0,110343.94
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1215,85.51,0.03,100777.81
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,968,85.51,0.08,76151.79
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1169,85.51,0.0,99961.19
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1213,86.53,0.05,99712.85
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1191,86.53,0.0,103057.23
+2025-05-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1157,86.53,0.03,97111.75
+2025-05-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1076,21.6,0.0,23245.9
+2025-05-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1266,21.6,0.03,26530.14
+2025-05-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1407,21.6,0.03,29484.92
+2025-05-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,943,21.87,0.0,20621.52
+2025-05-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1275,21.87,0.0,27881.7
+2025-05-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1334,21.87,0.05,27713.32
+2025-05-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1287,22.13,0.08,26205.17
+2025-05-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1159,22.13,0.08,23598.91
+2025-05-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1226,22.13,0.0,27133.83
+2025-05-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1491,22.4,0.03,32390.66
+2025-05-01,P006,DermaClear,Dermatology,Cream,West,Hospital,984,22.4,0.05,20935.78
+2025-05-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1313,22.4,0.03,28523.77
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1180,13.75,0.0,16222.64
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1264,13.75,0.05,16508.6
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1277,13.75,0.05,16678.39
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1359,13.92,0.0,18911.84
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1422,13.92,0.05,18799.12
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1410,13.92,0.0,19621.56
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1244,14.08,0.0,17520.5
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1376,14.08,0.0,19379.58
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1497,14.08,0.05,20029.56
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1270,14.25,0.0,18100.04
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1556,14.25,0.0,22176.11
+2025-05-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1709,14.25,0.05,23138.83
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1539,26.51,0.03,39580.89
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1613,26.51,0.0,42767.08
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1415,26.51,0.08,34515.93
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1391,26.84,0.05,35465.08
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1418,26.84,0.03,36914.6
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1490,26.84,0.03,38788.96
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1386,27.16,0.0,37646.53
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1498,27.16,0.08,37433.58
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1779,27.16,0.08,44455.5
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1526,27.49,0.03,40685.33
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1344,27.49,0.0,36941.18
+2025-05-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1795,27.49,0.0,49337.37
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,726,12.28,0.0,8911.65
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,825,12.28,0.03,9823.07
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,879,12.28,0.03,10466.03
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,788,12.43,0.08,9007.63
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,866,12.43,0.05,10222.05
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,713,12.43,0.0,8859.02
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,852,12.57,0.0,10713.9
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,802,12.57,0.0,10085.15
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,893,12.57,0.03,10892.59
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,855,12.72,0.05,10335.88
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,1106,12.72,0.08,12947.94
+2025-06-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,877,12.72,0.03,10825.03
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,786,17.68,0.08,12781.87
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,834,17.68,0.0,14741.78
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,1035,17.68,0.0,18294.66
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,810,17.89,0.03,14057.74
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,934,17.89,0.08,15374.24
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,863,17.89,0.05,14668.76
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,1006,18.11,0.03,17670.15
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,796,18.11,0.03,13981.55
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1087,18.11,0.0,19683.4
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,963,18.32,0.03,17116.63
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1053,18.32,0.0,19295.17
+2025-06-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,897,18.32,0.05,15614.8
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,840,15.22,0.03,12402.07
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,1041,15.22,0.08,14577.46
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1231,15.22,0.05,17800.2
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,908,15.41,0.03,13569.87
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1083,15.41,0.03,16185.21
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1079,15.41,0.0,16624.15
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,963,15.59,0.0,15016.06
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,989,15.59,0.0,15421.48
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1112,15.59,0.0,17339.42
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,1101,15.78,0.03,16851.5
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1188,15.78,0.0,18745.45
+2025-06-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,988,15.78,0.0,15589.65
+2025-06-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,896,9.33,0.05,7940.84
+2025-06-01,P004,PainEase,Pain Management,Tablets,North,Hospital,896,9.33,0.03,8108.02
+2025-06-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1102,9.33,0.0,10280.56
+2025-06-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,962,9.44,0.0,9084.17
+2025-06-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1117,9.44,0.08,9704.0
+2025-06-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1200,9.44,0.03,10991.65
+2025-06-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,785,9.56,0.08,6902.07
+2025-06-01,P004,PainEase,Pain Management,Tablets,East,Hospital,828,9.56,0.0,7913.2
+2025-06-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1192,9.56,0.0,11391.94
+2025-06-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1257,9.67,0.0,12156.45
+2025-06-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1101,9.67,0.0,10647.77
+2025-06-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1163,9.67,0.05,10685.0
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1158,83.47,0.0,96658.26
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1213,83.47,0.05,96186.65
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1042,83.47,0.03,84366.47
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1175,84.49,0.03,96297.48
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1049,84.49,0.0,88630.01
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1147,84.49,0.08,89157.23
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1003,85.51,0.08,78905.21
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1024,85.51,0.05,83184.13
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1292,85.51,0.03,107164.55
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,987,86.53,0.0,85405.11
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1276,86.53,0.0,110412.28
+2025-06-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1343,86.53,0.03,112723.5
+2025-06-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1096,21.6,0.0,23677.98
+2025-06-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1123,21.6,0.05,23048.23
+2025-06-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1161,21.6,0.0,25082.24
+2025-06-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1016,21.87,0.05,21106.99
+2025-06-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1451,21.87,0.0,31730.47
+2025-06-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1277,21.87,0.0,27925.44
+2025-06-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1181,22.13,0.08,24046.86
+2025-06-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1145,22.13,0.0,25341.14
+2025-06-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1571,22.13,0.03,33726.29
+2025-06-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1175,22.4,0.08,24210.08
+2025-06-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1374,22.4,0.0,30772.1
+2025-06-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1479,22.4,0.0,33123.68
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1214,13.75,0.03,16189.37
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1056,13.75,0.05,13791.99
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1445,13.75,0.0,19865.86
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1158,13.92,0.03,15631.29
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1444,13.92,0.03,19491.86
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1280,13.92,0.08,16387.48
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1286,14.08,0.0,18112.02
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1449,14.08,0.08,18775.1
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1653,14.08,0.03,22582.43
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1445,14.25,0.0,20594.14
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1505,14.25,0.0,21449.26
+2025-06-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1612,14.25,0.05,21825.51
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1158,26.51,0.0,30703.21
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1487,26.51,0.05,37455.0
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1376,26.51,0.03,35388.77
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1291,26.84,0.0,34647.86
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1413,26.84,0.0,37922.09
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1407,26.84,0.03,36628.23
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1215,27.16,0.0,33001.83
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1450,27.16,0.0,39384.9
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1477,27.16,0.0,40118.27
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1381,27.49,0.05,36060.26
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1481,27.49,0.0,40706.77
+2025-06-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1174,27.49,0.05,30655.14
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,661,12.28,0.05,7708.09
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,883,12.28,0.0,10838.83
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,954,12.28,0.0,11710.35
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,734,12.43,0.03,8846.35
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,800,12.43,0.03,9641.8
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,613,12.43,0.0,7616.53
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,725,12.57,0.05,8661.03
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,921,12.57,0.0,11581.57
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,871,12.57,0.0,10952.82
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,933,12.72,0.0,11872.42
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,1003,12.72,0.0,12763.17
+2025-07-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,894,12.72,0.0,11376.15
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,773,17.68,0.05,12980.37
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,986,17.68,0.05,16557.11
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,738,17.68,0.0,13044.89
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,773,17.89,0.0,13830.52
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,711,17.89,0.03,12339.58
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,844,17.89,0.05,14345.81
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,1053,18.11,0.0,19067.72
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,883,18.11,0.03,15509.68
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,754,18.11,0.0,13653.43
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,791,18.32,0.05,13769.57
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,776,18.32,0.03,13792.84
+2025-07-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1061,18.32,0.0,19441.76
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,886,15.22,0.0,13485.81
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,1008,15.22,0.03,14882.48
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1057,15.22,0.0,16088.6
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,734,15.41,0.05,10743.3
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1002,15.41,0.0,15437.81
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1008,15.41,0.03,15064.35
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,1056,15.59,0.08,15148.91
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1100,15.59,0.0,17152.3
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1339,15.59,0.0,20879.03
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,868,15.78,0.0,13696.17
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,911,15.78,0.0,14374.67
+2025-07-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1052,15.78,0.0,16599.51
+2025-07-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,909,9.33,0.05,8056.06
+2025-07-01,P004,PainEase,Pain Management,Tablets,North,Hospital,905,9.33,0.0,8442.75
+2025-07-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,940,9.33,0.0,8769.26
+2025-07-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1004,9.44,0.03,9196.35
+2025-07-01,P004,PainEase,Pain Management,Tablets,South,Hospital,972,9.44,0.05,8719.67
+2025-07-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1005,9.44,0.0,9490.22
+2025-07-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,838,9.56,0.0,8008.77
+2025-07-01,P004,PainEase,Pain Management,Tablets,East,Hospital,776,9.56,0.0,7416.23
+2025-07-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1345,9.56,0.05,12211.46
+2025-07-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1236,9.67,0.03,11594.76
+2025-07-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1243,9.67,0.0,12021.05
+2025-07-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1279,9.67,0.0,12369.21
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,927,83.47,0.03,75055.39
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1144,83.47,0.0,95489.68
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,975,83.47,0.03,78941.75
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1058,84.49,0.0,89390.42
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1004,84.49,0.0,84827.96
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1269,84.49,0.0,107217.81
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1309,85.51,0.05,106335.96
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1016,85.51,0.0,86878.16
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1148,85.51,0.0,98165.48
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1151,86.53,0.08,91628.35
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,934,86.53,0.0,80819.02
+2025-07-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1026,86.53,0.03,86116.39
+2025-07-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1285,21.6,0.03,26928.31
+2025-07-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1191,21.6,0.03,24958.45
+2025-07-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1119,21.6,0.0,24174.88
+2025-07-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1120,21.87,0.0,24492.16
+2025-07-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1121,21.87,0.05,23288.33
+2025-07-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1278,21.87,0.0,27947.3
+2025-07-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1107,22.13,0.05,23275.12
+2025-07-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1223,22.13,0.05,25714.06
+2025-07-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1420,22.13,0.03,30484.62
+2025-07-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1312,22.4,0.0,29383.55
+2025-07-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1525,22.4,0.0,34153.9
+2025-07-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1421,22.4,0.03,30869.97
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1161,13.75,0.0,15961.43
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1477,13.75,0.03,19696.62
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1259,13.75,0.05,16443.3
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,874,13.92,0.03,11797.71
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1401,13.92,0.0,19496.32
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1384,13.92,0.0,19259.74
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1248,14.08,0.0,17576.83
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1458,14.08,0.0,20534.47
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1312,14.08,0.05,17554.3
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,950,14.25,0.03,13133.22
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1514,14.25,0.08,19851.33
+2025-07-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1316,14.25,0.0,18755.63
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1085,26.51,0.05,27329.31
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,961,26.51,0.05,24205.96
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1504,26.51,0.03,38680.74
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,881,26.84,0.03,22934.95
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1563,26.84,0.0,41947.79
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1358,26.84,0.0,36446.0
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1466,27.16,0.05,37828.52
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1471,27.16,0.0,39955.3
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1808,27.16,0.0,49108.9
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1444,27.49,0.03,38499.09
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1664,27.49,0.0,45736.7
+2025-07-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1408,27.49,0.0,38700.29
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,531,12.28,0.0,6518.03
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,828,12.28,0.03,9858.79
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,634,12.28,0.0,7782.35
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,784,12.43,0.0,9741.2
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,671,12.43,0.08,7670.2
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,878,12.43,0.05,10363.69
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,947,12.57,0.0,11908.52
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,899,12.57,0.05,10739.68
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,869,12.57,0.0,10927.67
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,852,12.72,0.0,10841.7
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,813,12.72,0.08,9517.79
+2025-08-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1226,12.72,0.0,15600.85
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,673,17.68,0.0,11895.95
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,800,17.68,0.0,14140.8
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,944,17.68,0.05,15851.84
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,828,17.89,0.05,14073.85
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,911,17.89,0.03,15810.62
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,863,17.89,0.03,14977.57
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,810,18.11,0.0,14667.48
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,1014,18.11,0.08,16892.59
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1081,18.11,0.0,19574.75
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,928,18.32,0.08,15644.3
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1117,18.32,0.05,19444.51
+2025-08-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1146,18.32,0.05,19949.34
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,912,15.22,0.05,13187.47
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,702,15.22,0.0,10685.14
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1002,15.22,0.03,14793.9
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,889,15.41,0.05,13011.98
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1117,15.41,0.05,16349.14
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,625,15.41,0.03,9340.49
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,895,15.59,0.0,13955.74
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,994,15.59,0.0,15499.44
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,899,15.59,0.05,13317.2
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,845,15.78,0.08,12266.59
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1228,15.78,0.0,19376.61
+2025-08-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1161,15.78,0.0,18319.42
+2025-08-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,1120,9.33,0.0,10448.48
+2025-08-01,P004,PainEase,Pain Management,Tablets,North,Hospital,943,9.33,0.08,8093.47
+2025-08-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,842,9.33,0.0,7855.02
+2025-08-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,905,9.44,0.0,8545.91
+2025-08-01,P004,PainEase,Pain Management,Tablets,South,Hospital,947,9.44,0.0,8942.52
+2025-08-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1178,9.44,0.08,10233.95
+2025-08-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,1077,9.56,0.03,9984.1
+2025-08-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1130,9.56,0.05,10259.44
+2025-08-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1456,9.56,0.05,13219.24
+2025-08-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1210,9.67,0.0,11701.91
+2025-08-01,P004,PainEase,Pain Management,Tablets,West,Hospital,981,9.67,0.0,9487.25
+2025-08-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1325,9.67,0.08,11788.95
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,980,83.47,0.05,77710.57
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1015,83.47,0.0,84722.05
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1315,83.47,0.03,106470.16
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,900,84.49,0.0,76041.0
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1222,84.49,0.05,98084.44
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1270,84.49,0.08,98718.12
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,939,85.51,0.0,80293.89
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,892,85.51,0.03,73986.67
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1190,85.51,0.0,101756.9
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,682,86.53,0.03,57243.06
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1356,86.53,0.0,117334.68
+2025-08-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1308,86.53,0.03,109785.8
+2025-08-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1253,21.6,0.03,26257.72
+2025-08-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1163,21.6,0.08,23115.42
+2025-08-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1424,21.6,0.05,29225.89
+2025-08-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1014,21.87,0.0,22174.15
+2025-08-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1245,21.87,0.03,26408.89
+2025-08-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1170,21.87,0.0,25585.56
+2025-08-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1129,22.13,0.05,23737.68
+2025-08-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1228,22.13,0.0,27178.1
+2025-08-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1340,22.13,0.03,28767.17
+2025-08-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1079,22.4,0.0,24165.28
+2025-08-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1335,22.4,0.05,28403.73
+2025-08-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1333,22.4,0.05,28361.17
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,929,13.75,0.0,12771.89
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,919,13.75,0.0,12634.41
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1452,13.75,0.03,19363.23
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,827,13.92,0.05,10933.11
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1217,13.92,0.0,16935.77
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1060,13.92,0.0,14750.96
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1498,14.08,0.0,21097.83
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1386,14.08,0.05,18544.4
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1416,14.08,0.05,18945.8
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1135,14.25,0.0,16176.02
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1095,14.25,0.0,15605.94
+2025-08-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1436,14.25,0.0,20465.87
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1204,26.51,0.03,30965.17
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1095,26.51,0.0,29032.83
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1147,26.51,0.05,28890.98
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1065,26.84,0.05,27153.35
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1116,26.84,0.05,28453.65
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1274,26.84,0.0,34191.61
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1357,27.16,0.03,35753.07
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1457,27.16,0.0,39575.03
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1426,27.16,0.0,38733.01
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1370,27.49,0.0,37655.82
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1516,27.49,0.0,41668.78
+2025-08-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1092,27.49,0.0,30014.71
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,688,12.28,0.08,7769.58
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,864,12.28,0.03,10287.43
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,595,12.28,0.08,6719.34
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,453,12.43,0.05,5347.1
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,762,12.43,0.05,8994.46
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,971,12.43,0.0,12064.68
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,744,12.57,0.03,9075.13
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,897,12.57,0.0,11279.77
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,932,12.57,0.03,11368.3
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,682,12.72,0.0,8678.45
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,763,12.72,0.05,9223.72
+2025-09-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,730,12.72,0.08,8546.11
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,897,17.68,0.05,15062.6
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,904,17.68,0.0,15979.1
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,867,17.68,0.03,14865.34
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,767,17.89,0.0,13723.16
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,767,17.89,0.0,13723.16
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,975,17.89,0.0,17444.7
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,758,18.11,0.08,12627.79
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,861,18.11,0.05,14811.44
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,891,18.11,0.0,16134.23
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,976,18.32,0.05,16990.01
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,933,18.32,0.08,15728.59
+2025-09-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1038,18.32,0.03,18449.7
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,697,15.22,0.0,10609.04
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,815,15.22,0.08,11412.71
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,978,15.22,0.0,14886.14
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,685,15.41,0.0,10553.8
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,909,15.41,0.05,13304.71
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1002,15.41,0.05,14665.92
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,762,15.59,0.0,11881.87
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1118,15.59,0.08,16038.34
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1098,15.59,0.0,17121.11
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,943,15.78,0.05,14135.62
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,933,15.78,0.0,14721.81
+2025-09-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,859,15.78,0.0,13554.16
+2025-09-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,1014,9.33,0.0,9459.61
+2025-09-01,P004,PainEase,Pain Management,Tablets,North,Hospital,909,9.33,0.03,8225.66
+2025-09-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,840,9.33,0.03,7601.27
+2025-09-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,855,9.44,0.08,7427.86
+2025-09-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1075,9.44,0.0,10151.23
+2025-09-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1115,9.44,0.0,10528.94
+2025-09-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,852,9.56,0.05,7735.44
+2025-09-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1220,9.56,0.03,11309.75
+2025-09-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,913,9.56,0.0,8725.54
+2025-09-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1228,9.67,0.0,11875.99
+2025-09-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1135,9.67,0.08,10098.46
+2025-09-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1113,9.67,0.0,10763.82
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,945,83.47,0.0,78879.15
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1055,83.47,0.08,81015.98
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1190,83.47,0.0,99329.3
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,781,84.49,0.0,65986.69
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,980,84.49,0.0,82800.2
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1165,84.49,0.05,93509.31
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1238,85.51,0.08,97392.47
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1309,85.51,0.05,106335.96
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1460,85.51,0.0,124844.6
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1277,86.53,0.0,110498.81
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1052,86.53,0.05,86478.08
+2025-09-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1248,86.53,0.05,102589.97
+2025-09-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1207,21.6,0.05,24772.23
+2025-09-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1267,21.6,0.05,26003.65
+2025-09-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1156,21.6,0.05,23725.51
+2025-09-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1175,21.87,0.05,24410.15
+2025-09-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1096,21.87,0.0,23967.33
+2025-09-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,989,21.87,0.03,20978.63
+2025-09-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1129,22.13,0.03,24237.42
+2025-09-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1185,22.13,0.05,24915.1
+2025-09-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1195,22.13,0.0,26447.74
+2025-09-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1279,22.4,0.03,27785.15
+2025-09-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1221,22.4,0.0,27345.52
+2025-09-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1396,22.4,0.08,28763.63
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1246,13.75,0.08,15759.61
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1581,13.75,0.0,21735.59
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1249,13.75,0.03,16656.11
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1366,13.92,0.0,19009.26
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1283,13.92,0.05,16961.52
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1362,13.92,0.05,18005.91
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1210,14.08,0.08,15678.31
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1315,14.08,0.0,18520.46
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1317,14.08,0.0,18548.63
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1439,14.25,0.03,19893.37
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1208,14.25,0.0,17216.42
+2025-09-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1124,14.25,0.05,15218.29
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1123,26.51,0.03,28881.97
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1167,26.51,0.0,30941.84
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1247,26.51,0.0,33062.96
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1232,26.84,0.08,30419.26
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1228,26.84,0.05,31309.21
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1361,26.84,0.05,34700.19
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1210,27.16,0.0,32866.02
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1444,27.16,0.05,37260.83
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1891,27.16,0.0,51363.34
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1385,27.49,0.08,35022.66
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1322,27.49,0.03,35246.4
+2025-09-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1022,27.49,0.03,27247.97
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,862,12.28,0.0,10581.05
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,784,12.28,0.0,9623.6
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,810,12.28,0.05,9445.61
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,517,12.43,0.03,6231.01
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,794,12.43,0.08,9076.21
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,890,12.43,0.08,10173.59
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,730,12.57,0.0,9179.75
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,704,12.57,0.0,8852.8
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,753,12.57,0.0,9468.98
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,1043,12.72,0.0,13272.17
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,913,12.72,0.05,11037.03
+2025-10-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,903,12.72,0.05,10916.14
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,773,17.68,0.05,12980.37
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,835,17.68,0.03,14316.68
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,735,17.68,0.0,12991.86
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,915,17.89,0.03,15880.04
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,864,17.89,0.05,14685.75
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,969,17.89,0.0,17337.35
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,1032,18.11,0.05,17753.08
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,773,18.11,0.03,13577.56
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,900,18.11,0.0,16297.2
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,950,18.32,0.0,17407.8
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1096,18.32,0.03,19480.61
+2025-10-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,965,18.32,0.0,17682.66
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,785,15.22,0.0,11948.49
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,993,15.22,0.03,14661.02
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1281,15.22,0.03,18913.16
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,905,15.41,0.03,13525.03
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,867,15.41,0.03,12957.13
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,891,15.41,0.0,13727.64
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,926,15.59,0.0,14439.12
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1125,15.59,0.0,17542.12
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1482,15.59,0.0,23108.83
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,951,15.78,0.03,14555.65
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1071,15.78,0.03,16392.33
+2025-10-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1383,15.78,0.03,21167.69
+2025-10-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,964,9.33,0.03,8723.36
+2025-10-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1025,9.33,0.03,9275.36
+2025-10-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1271,9.33,0.0,11857.16
+2025-10-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,988,9.44,0.03,9049.79
+2025-10-01,P004,PainEase,Pain Management,Tablets,South,Hospital,910,9.44,0.03,8335.34
+2025-10-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1292,9.44,0.08,11224.33
+2025-10-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,809,9.56,0.0,7731.61
+2025-10-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1239,9.56,0.0,11841.12
+2025-10-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1160,9.56,0.0,11086.12
+2025-10-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1029,9.67,0.05,9453.89
+2025-10-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1092,9.67,0.03,10243.91
+2025-10-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1186,9.67,0.08,10552.22
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,949,83.47,0.03,76836.64
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1139,83.47,0.03,92220.16
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1084,83.47,0.05,85957.41
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,789,84.49,0.08,61329.6
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1124,84.49,0.05,90218.42
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1344,84.49,0.08,104470.2
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,817,85.51,0.0,69861.67
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1171,85.51,0.0,100132.21
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1166,85.51,0.08,91728.29
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1292,86.53,0.03,108442.86
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1178,86.53,0.05,96835.72
+2025-10-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1419,86.53,0.0,122786.07
+2025-10-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1180,21.6,0.05,24218.08
+2025-10-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1259,21.6,0.0,27199.44
+2025-10-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1476,21.6,0.08,29336.5
+2025-10-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1101,21.87,0.05,22872.83
+2025-10-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1213,21.87,0.0,26525.88
+2025-10-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1343,21.87,0.03,28487.66
+2025-10-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1197,22.13,0.03,25697.24
+2025-10-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1209,22.13,0.05,25419.71
+2025-10-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1165,22.13,0.0,25783.78
+2025-10-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1232,22.4,0.0,27591.87
+2025-10-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1044,22.4,0.0,23381.42
+2025-10-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1002,22.4,0.05,21318.75
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,995,13.75,0.0,13679.26
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1343,13.75,0.0,18463.56
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1345,13.75,0.0,18491.06
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1322,13.92,0.0,18396.95
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1167,13.92,0.0,16239.97
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1538,13.92,0.0,21402.81
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1031,14.08,0.0,14520.6
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1142,14.08,0.0,16083.93
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1589,14.08,0.05,21260.5
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1337,14.25,0.0,19054.92
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1502,14.25,0.03,20764.31
+2025-10-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1493,14.25,0.0,21278.24
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1155,26.51,0.05,29092.49
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1109,26.51,0.08,27051.7
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1052,26.51,0.0,27892.73
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1602,26.84,0.0,42994.48
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1072,26.84,0.0,28770.34
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1700,26.84,0.05,43343.37
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1360,27.16,0.0,36940.32
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1461,27.16,0.03,38493.17
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1519,27.16,0.05,39196.12
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1489,27.49,0.0,40926.65
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1309,27.49,0.03,34899.8
+2025-10-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1095,27.49,0.0,30097.17
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,675,12.28,0.03,8037.06
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,847,12.28,0.0,10396.93
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,755,12.28,0.08,8526.22
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,884,12.43,0.08,10105.0
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,837,12.43,0.08,9567.75
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,789,12.43,0.0,9803.33
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,844,12.57,0.08,9764.24
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,952,12.57,0.08,11013.69
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,1038,12.57,0.0,13052.85
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,555,12.72,0.03,6850.5
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,586,12.72,0.0,7456.85
+2025-11-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1158,12.72,0.0,14735.55
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,662,17.68,0.0,11701.51
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,1000,17.68,0.05,16792.2
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,1095,17.68,0.03,18774.56
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,733,17.89,0.08,12065.65
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,815,17.89,0.0,14581.98
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,1102,17.89,0.0,19716.98
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,867,18.11,0.08,14443.67
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,1147,18.11,0.0,20769.88
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1274,18.11,0.0,23069.59
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,822,18.32,0.0,15062.33
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,931,18.32,0.08,15694.87
+2025-11-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1123,18.32,0.03,19960.52
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,649,15.22,0.0,9878.43
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,748,15.22,0.03,11043.75
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,922,15.22,0.0,14033.76
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,1186,15.41,0.05,17359.07
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1051,15.41,0.0,16192.76
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1002,15.41,0.03,14974.68
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,868,15.59,0.0,13534.72
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,907,15.59,0.03,13718.57
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1058,15.59,0.05,15672.52
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,963,15.78,0.0,15195.18
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1087,15.78,0.03,16637.22
+2025-11-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1267,15.78,0.0,19991.99
+2025-11-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,969,9.33,0.0,9039.8
+2025-11-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1159,9.33,0.03,10487.94
+2025-11-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1082,9.33,0.0,10093.98
+2025-11-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1252,9.44,0.0,11822.64
+2025-11-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1211,9.44,0.0,11435.47
+2025-11-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1209,9.44,0.0,11416.59
+2025-11-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,1148,9.56,0.0,10971.44
+2025-11-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1072,9.56,0.0,10245.1
+2025-11-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1188,9.56,0.03,11013.1
+2025-11-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1090,9.67,0.03,10225.15
+2025-11-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1088,9.67,0.0,10522.05
+2025-11-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1058,9.67,0.05,9720.32
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1138,83.47,0.0,94988.86
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1276,83.47,0.05,101182.33
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1270,83.47,0.05,100706.55
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1102,84.49,0.08,85659.34
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1520,84.49,0.0,128424.8
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1155,84.49,0.03,94658.37
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1202,85.51,0.0,102783.02
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1414,85.51,0.0,120911.14
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1127,85.51,0.05,91551.28
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1312,86.53,0.03,110121.54
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1578,86.53,0.03,132448.01
+2025-11-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1360,86.53,0.08,108266.34
+2025-11-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1172,21.6,0.03,24560.29
+2025-11-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1119,21.6,0.0,24174.88
+2025-11-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1372,21.6,0.03,28751.47
+2025-11-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1079,21.87,0.0,23595.57
+2025-11-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1261,21.87,0.05,26196.77
+2025-11-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1095,21.87,0.0,23945.46
+2025-11-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,839,22.13,0.0,18568.75
+2025-11-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1242,22.13,0.08,25288.91
+2025-11-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1308,22.13,0.0,28948.66
+2025-11-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1235,22.4,0.0,27659.06
+2025-11-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1501,22.4,0.03,32607.9
+2025-11-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1628,22.4,0.03,35366.87
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1278,13.75,0.0,17569.94
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1414,13.75,0.05,18467.69
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1245,13.75,0.0,17116.26
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1122,13.92,0.03,15145.34
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1441,13.92,0.08,18448.72
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1226,13.92,0.0,17061.02
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1127,14.08,0.0,15872.67
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1914,14.08,0.05,25608.94
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1489,14.08,0.05,19922.52
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1298,14.25,0.03,17944.12
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1346,14.25,0.05,18224.03
+2025-11-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1250,14.25,0.0,17815.0
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1362,26.51,0.03,35028.71
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1335,26.51,0.0,35396.19
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1641,26.51,0.0,43509.47
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1459,26.84,0.0,39156.64
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1378,26.84,0.0,36982.76
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1135,26.84,0.0,30461.13
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1428,27.16,0.0,38787.34
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1484,27.16,0.0,40308.41
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1137,27.16,0.0,30883.19
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1544,27.49,0.0,42438.38
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1316,27.49,0.05,34363.0
+2025-11-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1822,27.49,0.08,46073.13
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,769,12.28,0.03,9156.29
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,791,12.28,0.05,9224.05
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,956,12.28,0.05,11148.15
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,845,12.43,0.0,10499.12
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,920,12.43,0.05,10859.45
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,1091,12.43,0.08,12471.22
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,694,12.57,0.08,8028.89
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,994,12.57,0.0,12499.55
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,952,12.57,0.0,11971.4
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,908,12.72,0.05,10976.58
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,1189,12.72,0.05,14373.52
+2025-12-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,991,12.72,0.0,12610.48
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,909,17.68,0.0,16067.48
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,1049,17.68,0.0,18542.12
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,1084,17.68,0.0,19160.78
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,929,17.89,0.0,16621.67
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,1026,17.89,0.0,18357.19
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,1150,17.89,0.03,19958.53
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,881,18.11,0.0,15953.15
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,1050,18.11,0.0,19013.4
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1431,18.11,0.03,25135.17
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,1082,18.32,0.05,18835.24
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1121,18.32,0.08,18897.91
+2025-12-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1132,18.32,0.08,19083.35
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,866,15.22,0.0,13181.39
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,1067,15.22,0.0,16240.81
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1156,15.22,0.03,17067.61
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,1000,15.41,0.08,14174.44
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1443,15.41,0.03,21565.33
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1067,15.41,0.0,16439.27
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,945,15.59,0.05,13998.62
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1094,15.59,0.03,16546.98
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1212,15.59,0.03,18331.75
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,1006,15.78,0.08,14603.78
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1230,15.78,0.0,19408.17
+2025-12-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1326,15.78,0.03,20295.27
+2025-12-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,1133,9.33,0.0,10569.76
+2025-12-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1055,9.33,0.0,9842.1
+2025-12-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1391,9.33,0.03,12587.34
+2025-12-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1182,9.44,0.0,11161.63
+2025-12-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1578,9.44,0.08,13708.97
+2025-12-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1146,9.44,0.0,10821.68
+2025-12-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,1038,9.56,0.03,9622.56
+2025-12-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1189,9.56,0.0,11363.27
+2025-12-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1364,9.56,0.0,13035.75
+2025-12-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1279,9.67,0.0,12369.21
+2025-12-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1381,9.67,0.03,12954.98
+2025-12-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1713,9.67,0.03,16069.43
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,883,83.47,0.08,67807.69
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,962,83.47,0.05,76283.23
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1274,83.47,0.0,106340.78
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1479,84.49,0.03,121211.89
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1380,84.49,0.0,116596.2
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1186,84.49,0.0,100205.14
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1271,85.51,0.0,108683.21
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1295,85.51,0.03,107413.39
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1365,85.51,0.0,116721.15
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1215,86.53,0.05,99877.25
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1392,86.53,0.03,116836.27
+2025-12-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1644,86.53,0.03,137987.66
+2025-12-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1160,21.6,0.05,23807.61
+2025-12-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1401,21.6,0.0,30267.2
+2025-12-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1514,21.6,0.08,30091.78
+2025-12-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1480,21.87,0.0,32364.64
+2025-12-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1218,21.87,0.0,26635.22
+2025-12-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1439,21.87,0.03,30524.01
+2025-12-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1231,22.13,0.05,25882.27
+2025-12-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1429,22.13,0.03,30677.83
+2025-12-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1506,22.13,0.05,31664.25
+2025-12-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1206,22.4,0.0,27009.58
+2025-12-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1494,22.4,0.0,33459.62
+2025-12-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1950,22.4,0.03,42362.03
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1394,13.75,0.0,19164.71
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1180,13.75,0.05,15411.51
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1310,13.75,0.0,18009.88
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1365,13.92,0.05,18045.57
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1292,13.92,0.0,17979.47
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1752,13.92,0.05,23161.79
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1187,14.08,0.0,16717.71
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1592,14.08,0.0,22421.73
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1281,14.08,0.0,18041.6
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1469,14.25,0.05,19889.38
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1363,14.25,0.05,18454.2
+2025-12-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1767,14.25,0.03,24427.79
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1582,26.51,0.0,41945.15
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1544,26.51,0.0,40937.62
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1766,26.51,0.05,44482.54
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1044,26.84,0.0,28018.87
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1564,26.84,0.0,41974.63
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1709,26.84,0.0,45866.14
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1626,27.16,0.05,41957.14
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1240,27.16,0.08,30986.41
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1754,27.16,0.0,47642.15
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1688,27.49,0.0,46396.37
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1672,27.49,0.08,42280.06
+2025-12-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1460,27.49,0.0,40129.56
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,778,12.28,0.03,9263.45
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,1041,12.28,0.0,12778.27
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,1121,12.28,0.0,13760.27
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,933,12.43,0.03,11244.75
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,1047,12.43,0.0,13008.98
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,1170,12.43,0.0,14537.25
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,993,12.57,0.0,12486.97
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,1169,12.57,0.0,14700.17
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,1258,12.57,0.0,15819.35
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,1296,12.72,0.05,15667.02
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,1022,12.72,0.0,13004.95
+2026-01-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1102,12.72,0.05,13321.8
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,633,17.68,0.03,10853.24
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,1051,17.68,0.05,17648.6
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,1333,17.68,0.03,22855.24
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,1128,17.89,0.0,20182.18
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,1166,17.89,0.0,20862.07
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,1328,17.89,0.05,22572.55
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,1099,18.11,0.03,19303.67
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,1086,18.11,0.0,19665.29
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1514,18.11,0.03,26593.05
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,1150,18.32,0.0,21072.6
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1334,18.32,0.0,24444.22
+2026-01-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,919,18.32,0.0,16839.76
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,762,15.22,0.03,11250.45
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,1125,15.22,0.03,16609.92
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1065,15.22,0.0,16210.36
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,1111,15.41,0.0,17117.18
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1096,15.41,0.05,16041.77
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1638,15.41,0.0,25236.67
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,1272,15.59,0.0,19834.3
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1425,15.59,0.05,21109.02
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,996,15.59,0.0,15530.63
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,1304,15.78,0.08,18929.75
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1251,15.78,0.0,19739.53
+2026-01-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1593,15.78,0.03,24381.87
+2026-01-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,1200,9.33,0.05,10635.06
+2026-01-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1195,9.33,0.05,10590.75
+2026-01-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1109,9.33,0.0,10345.86
+2026-01-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1194,9.44,0.0,11274.94
+2026-01-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1431,9.44,0.08,12431.9
+2026-01-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1581,9.44,0.08,13735.03
+2026-01-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,1182,9.56,0.03,10957.48
+2026-01-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1695,9.56,0.0,16199.11
+2026-01-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1576,9.56,0.03,14609.98
+2026-01-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1159,9.67,0.08,10311.99
+2026-01-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1199,9.67,0.0,11595.53
+2026-01-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1436,9.67,0.0,13887.56
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1163,83.47,0.05,92221.83
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1370,83.47,0.03,110923.28
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1385,83.47,0.05,109825.65
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1230,84.49,0.05,98726.56
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1116,84.49,0.0,94290.84
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1548,84.49,0.08,120327.28
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1083,85.51,0.03,89829.11
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1591,85.51,0.05,129244.09
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1159,85.51,0.0,99106.09
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1122,86.53,0.03,94174.06
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1319,86.53,0.03,110709.08
+2026-01-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1472,86.53,0.0,127372.16
+2026-01-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1212,21.6,0.03,25398.53
+2026-01-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1320,21.6,0.05,27091.42
+2026-01-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1522,21.6,0.05,31237.22
+2026-01-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1230,21.87,0.0,26897.64
+2026-01-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1497,21.87,0.03,31754.3
+2026-01-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1116,21.87,0.03,23672.55
+2026-01-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1277,22.13,0.03,27414.69
+2026-01-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1213,22.13,0.05,25503.81
+2026-01-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1791,22.13,0.03,38449.26
+2026-01-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1354,22.4,0.0,30324.18
+2026-01-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1674,22.4,0.05,35616.36
+2026-01-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1296,22.4,0.03,28154.46
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1653,13.75,0.0,22725.44
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1504,13.75,0.0,20676.99
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1948,13.75,0.08,24638.62
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1459,13.92,0.0,20303.44
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1276,13.92,0.0,17756.82
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1438,13.92,0.0,20011.21
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1477,14.08,0.05,19761.96
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1422,14.08,0.0,20027.45
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1877,14.08,0.08,24320.81
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1589,14.25,0.03,21967.04
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1475,14.25,0.0,21021.7
+2026-01-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1906,14.25,0.03,26349.38
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1435,26.51,0.03,36906.16
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1722,26.51,0.05,43374.25
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1564,26.51,0.0,41467.9
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1654,26.84,0.08,40838.85
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1563,26.84,0.03,40689.36
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1919,26.84,0.0,51502.12
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1275,27.16,0.0,34631.55
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1453,27.16,0.05,37493.07
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1749,27.16,0.0,47506.34
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1538,27.49,0.0,42273.47
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1667,27.49,0.03,44444.59
+2026-01-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1977,27.49,0.03,52709.63
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,827,12.28,0.0,10151.43
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,993,12.28,0.08,11213.95
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,941,12.28,0.03,11204.25
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,722,12.43,0.03,8701.72
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,1104,12.43,0.0,13717.2
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,1328,12.43,0.03,16005.39
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,1016,12.57,0.0,12776.2
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,1067,12.57,0.03,13015.0
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,1180,12.57,0.0,14838.5
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,1212,12.72,0.0,15422.7
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,1168,12.72,0.0,14862.8
+2026-02-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1337,12.72,0.0,17013.33
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,1054,17.68,0.0,18630.5
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,1186,17.68,0.03,20334.82
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,1130,17.68,0.08,18375.97
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,969,17.89,0.03,16817.23
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,1188,17.89,0.0,21255.7
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,1341,17.89,0.0,23993.17
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,1239,18.11,0.03,21762.74
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,1378,18.11,0.03,24204.24
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1393,18.11,0.0,25224.44
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,1076,18.32,0.0,19716.62
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1269,18.32,0.08,21392.9
+2026-02-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1345,18.32,0.03,23906.41
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,1073,15.22,0.05,15515.53
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,1230,15.22,0.03,18160.18
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1217,15.22,0.05,17597.76
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,1106,15.41,0.05,16188.13
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1475,15.41,0.0,22725.33
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1297,15.41,0.0,19982.88
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,1336,15.59,0.0,20832.25
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1442,15.59,0.0,22485.11
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1404,15.59,0.05,20797.94
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,1229,15.78,0.0,19392.39
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1212,15.78,0.08,17594.22
+2026-02-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1172,15.78,0.0,18492.99
+2026-02-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,1255,9.33,0.08,10771.26
+2026-02-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1317,9.33,0.03,11917.7
+2026-02-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1464,9.33,0.05,12974.77
+2026-02-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1167,9.44,0.0,11019.98
+2026-02-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1615,9.44,0.0,15250.44
+2026-02-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1485,9.44,0.0,14022.85
+2026-02-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,1278,9.56,0.05,11603.15
+2026-02-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1063,9.56,0.05,9651.14
+2026-02-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1406,9.56,0.03,13034.03
+2026-02-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1479,9.67,0.05,13588.24
+2026-02-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1678,9.67,0.08,14929.7
+2026-02-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1536,9.67,0.08,13666.28
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1510,83.47,0.08,115956.52
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1219,83.47,0.0,101749.93
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1518,83.47,0.0,126707.46
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1403,84.49,0.0,118539.47
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1521,84.49,0.03,124654.01
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1538,84.49,0.03,126047.25
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1453,85.51,0.0,124246.03
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1323,85.51,0.0,113129.73
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1806,85.51,0.0,154431.06
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1610,86.53,0.05,132347.63
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1599,86.53,0.05,131443.4
+2026-02-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1808,86.53,0.05,148623.93
+2026-02-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1588,21.6,0.05,32591.79
+2026-02-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1562,21.6,0.05,32058.18
+2026-02-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1917,21.6,0.0,41414.87
+2026-02-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1547,21.87,0.05,32138.31
+2026-02-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1383,21.87,0.08,27823.97
+2026-02-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1660,21.87,0.03,35211.85
+2026-02-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1666,22.13,0.0,36871.91
+2026-02-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1828,22.13,0.0,40457.3
+2026-02-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1707,22.13,0.0,37779.32
+2026-02-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1401,22.4,0.05,29807.96
+2026-02-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1606,22.4,0.0,35967.98
+2026-02-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1475,22.4,0.03,32043.08
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1609,13.75,0.0,22120.53
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1494,13.75,0.03,19923.33
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1525,13.75,0.03,20336.73
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1693,13.92,0.05,22381.8
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1919,13.92,0.0,26704.8
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1580,13.92,0.05,20887.92
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1632,14.08,0.03,22295.54
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1653,14.08,0.05,22116.81
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,2056,14.08,0.03,28088.0
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1648,14.25,0.03,22782.68
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1553,14.25,0.0,22133.36
+2026-02-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1831,14.25,0.08,24007.78
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1785,26.51,0.0,47327.49
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1623,26.51,0.05,40880.61
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1636,26.51,0.03,42075.6
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1619,26.84,0.05,41278.19
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1540,26.84,0.03,40090.6
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1778,26.84,0.0,47717.96
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1599,27.16,0.03,42129.08
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,2254,27.16,0.0,61223.15
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1478,27.16,0.05,38138.16
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1596,27.49,0.03,42551.63
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1724,27.49,0.0,47385.86
+2026-02-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1728,27.49,0.03,46070.93
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,939,12.28,0.0,11526.23
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,909,12.28,0.0,11157.98
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,906,12.28,0.05,10565.09
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,969,12.43,0.0,12039.83
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,1015,12.43,0.0,12611.38
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,1054,12.43,0.03,12703.07
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,1178,12.57,0.0,14813.35
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,1167,12.57,0.0,14675.02
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,1245,12.57,0.05,14873.08
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,1141,12.72,0.0,14519.23
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,1228,12.72,0.0,15626.3
+2026-03-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1229,12.72,0.0,15639.02
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,923,17.68,0.0,16314.95
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,1104,17.68,0.03,18928.87
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,1146,17.68,0.0,20256.7
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,839,17.89,0.05,14260.82
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,1020,17.89,0.05,17337.35
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,1190,17.89,0.05,20226.91
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,1239,18.11,0.03,21762.74
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,1231,18.11,0.03,21622.22
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1179,18.11,0.0,21349.33
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,1040,18.32,0.0,19056.96
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1438,18.32,0.0,26349.91
+2026-03-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1337,18.32,0.05,23274.23
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,757,15.22,0.0,11522.3
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,1176,15.22,0.05,17004.9
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1379,15.22,0.05,19940.27
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,1018,15.41,0.03,15213.8
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1262,15.41,0.0,19443.63
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1366,15.41,0.0,21045.96
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,1080,15.59,0.03,16335.23
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1500,15.59,0.0,23389.5
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1432,15.59,0.03,21659.3
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,1235,15.78,0.08,17928.1
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1351,15.78,0.05,20251.56
+2026-03-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1264,15.78,0.05,18947.42
+2026-03-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,1033,9.33,0.05,9155.01
+2026-03-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1229,9.33,0.03,11121.38
+2026-03-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1323,9.33,0.03,11972.0
+2026-03-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1234,9.44,0.08,10720.45
+2026-03-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1562,9.44,0.0,14749.97
+2026-03-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1548,9.44,0.0,14617.76
+2026-03-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,1071,9.56,0.0,10235.55
+2026-03-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1598,9.56,0.0,15272.09
+2026-03-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1430,9.56,0.0,13666.51
+2026-03-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1504,9.67,0.0,14545.18
+2026-03-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1416,9.67,0.03,13283.31
+2026-03-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1589,9.67,0.03,14906.2
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1137,83.47,0.08,87312.96
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1448,83.47,0.03,117238.62
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1628,83.47,0.08,125018.03
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1128,84.49,0.05,90539.48
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1601,84.49,0.0,135268.49
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1432,84.49,0.05,114940.2
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1706,85.51,0.03,141503.66
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1649,85.51,0.05,133955.69
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1712,85.51,0.03,142001.33
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1467,86.53,0.0,126939.51
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,2038,86.53,0.0,176348.14
+2026-03-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1588,86.53,0.0,137409.64
+2026-03-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1255,21.6,0.0,27113.02
+2026-03-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1392,21.6,0.03,29170.58
+2026-03-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1775,21.6,0.0,38347.1
+2026-03-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1488,21.87,0.0,32539.58
+2026-03-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1553,21.87,0.0,33961.0
+2026-03-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1571,21.87,0.0,34354.63
+2026-03-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1517,22.13,0.08,30888.3
+2026-03-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1533,22.13,0.0,33928.36
+2026-03-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1840,22.13,0.0,40722.88
+2026-03-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1552,22.4,0.0,34758.59
+2026-03-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1568,22.4,0.0,35116.93
+2026-03-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1964,22.4,0.0,43985.74
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1352,13.75,0.08,17100.31
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1623,13.75,0.03,21643.61
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1339,13.75,0.0,18408.57
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1340,13.92,0.0,18647.44
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1600,13.92,0.0,22265.6
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1653,13.92,0.0,23003.15
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1543,14.08,0.0,21731.61
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1875,14.08,0.0,26407.5
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1985,14.08,0.0,27956.74
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1756,14.25,0.08,23024.39
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1588,14.25,0.0,22632.18
+2026-03-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1856,14.25,0.08,24335.58
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1957,26.51,0.03,50331.26
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,2172,26.51,0.0,57588.41
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1989,26.51,0.0,52736.35
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1497,26.84,0.0,40176.49
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1748,26.84,0.08,43159.8
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1906,26.84,0.08,47060.97
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1756,27.16,0.03,46265.58
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,2050,27.16,0.0,55682.1
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,2074,27.16,0.03,54643.97
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1598,27.49,0.0,43922.63
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1765,27.49,0.03,47057.41
+2026-03-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,2194,27.49,0.0,60304.28
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,1038,12.28,0.05,12104.38
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,1013,12.28,0.05,11812.85
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,1263,12.28,0.0,15503.33
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,972,12.43,0.03,11714.79
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,945,12.43,0.03,11389.38
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,1218,12.43,0.03,14679.64
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,1366,12.57,0.03,16662.13
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,956,12.57,0.0,12021.7
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,1403,12.57,0.05,16760.59
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,1151,12.72,0.03,14207.08
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,1085,12.72,0.0,13806.62
+2026-04-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,998,12.72,0.0,12699.55
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,752,17.68,0.0,13292.35
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,1025,17.68,0.0,18117.9
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,1231,17.68,0.0,21759.16
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,1167,17.89,0.05,19835.97
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,1297,17.89,0.05,22045.63
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,1283,17.89,0.05,21807.66
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,1142,18.11,0.08,19024.99
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,1169,18.11,0.0,21168.25
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1364,18.11,0.0,24699.31
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,1099,18.32,0.08,18527.03
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1105,18.32,0.03,19640.58
+2026-04-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1378,18.32,0.03,24492.96
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,1202,15.22,0.0,18295.64
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,1008,15.22,0.0,15342.77
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1207,15.22,0.03,17820.59
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,1171,15.41,0.08,16598.27
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1258,15.41,0.05,18412.91
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1426,15.41,0.05,20871.86
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,1484,15.59,0.05,21983.01
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,992,15.59,0.0,15468.26
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1709,15.59,0.03,25848.98
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,1551,15.78,0.0,24473.23
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1518,15.78,0.03,23233.95
+2026-04-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1506,15.78,0.03,23050.28
+2026-04-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,1121,9.33,0.05,9934.92
+2026-04-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1425,9.33,0.03,12895.01
+2026-04-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1429,9.33,0.03,12931.21
+2026-04-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1225,9.44,0.0,11567.67
+2026-04-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1489,9.44,0.0,14060.63
+2026-04-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1618,9.44,0.03,14820.41
+2026-04-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,928,9.56,0.05,8425.45
+2026-04-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1644,9.56,0.05,14926.12
+2026-04-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1385,9.56,0.0,13236.44
+2026-04-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1588,9.67,0.05,14589.67
+2026-04-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1435,9.67,0.05,13183.99
+2026-04-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1612,9.67,0.03,15121.96
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1372,83.47,0.05,108794.8
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1581,83.47,0.0,131966.07
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1614,83.47,0.0,134720.58
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1323,84.49,0.05,106191.26
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1118,84.49,0.03,91626.03
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1643,84.49,0.0,138817.07
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1464,85.51,0.05,118927.31
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1311,85.51,0.0,112103.61
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1668,85.51,0.0,142630.68
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1501,86.53,0.0,129881.53
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1834,86.53,0.05,150761.22
+2026-04-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,2052,86.53,0.0,177559.56
+2026-04-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1575,21.6,0.03,33005.51
+2026-04-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1499,21.6,0.08,29793.64
+2026-04-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1614,21.6,0.0,34868.86
+2026-04-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1348,21.87,0.03,28593.72
+2026-04-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1460,21.87,0.0,31927.28
+2026-04-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1639,21.87,0.0,35841.65
+2026-04-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1505,22.13,0.05,31643.23
+2026-04-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1390,22.13,0.03,29840.58
+2026-04-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1987,22.13,0.0,43976.28
+2026-04-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1881,22.4,0.0,42126.88
+2026-04-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1948,22.4,0.0,43627.41
+2026-04-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,2100,22.4,0.05,44680.02
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1918,13.75,0.0,26368.66
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1471,13.75,0.0,20223.31
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,2134,13.75,0.0,29338.23
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1521,13.92,0.08,19472.94
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1796,13.92,0.05,23743.48
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1458,13.92,0.08,18666.37
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1558,14.08,0.03,21284.59
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1934,14.08,0.0,27238.46
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1970,14.08,0.0,27745.48
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1637,14.25,0.05,22164.0
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1817,14.25,0.0,25895.88
+2026-04-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1765,14.25,0.03,24400.14
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1810,26.51,0.08,44151.11
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1324,26.51,0.08,32296.17
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,2099,26.51,0.0,55652.89
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1541,26.84,0.0,41357.36
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1775,26.84,0.08,43826.45
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1583,26.84,0.08,39085.79
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1798,27.16,0.03,47372.16
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1951,27.16,0.0,52993.06
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,2001,27.16,0.0,54351.16
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1904,27.49,0.0,52333.34
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1877,27.49,0.05,49011.66
+2026-04-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1971,27.49,0.03,52549.66
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,867,12.28,0.0,10642.43
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,912,12.28,0.0,11194.8
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,1009,12.28,0.0,12385.48
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,996,12.43,0.0,12375.3
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,1195,12.43,0.0,14847.88
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,996,12.43,0.03,12004.04
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,992,12.57,0.03,12100.17
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,947,12.57,0.0,11908.52
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,1112,12.57,0.0,13983.4
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,1023,12.72,0.05,12366.79
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,1175,12.72,0.05,14204.28
+2026-05-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1261,12.72,0.05,15243.91
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,980,17.68,0.0,17322.48
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,1121,17.68,0.08,18229.61
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,1044,17.68,0.05,17531.06
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,1066,17.89,0.05,18119.23
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,1228,17.89,0.05,20872.81
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,1097,17.89,0.0,19627.52
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,884,18.11,0.0,16007.47
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,1332,18.11,0.0,24119.86
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1116,18.11,0.0,20208.53
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,1093,18.32,0.08,18425.88
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1356,18.32,0.08,22859.56
+2026-05-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,1200,18.32,0.0,21988.8
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,1201,15.22,0.03,17732.01
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,1080,15.22,0.0,16438.68
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1145,15.22,0.0,17428.05
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,994,15.41,0.08,14089.39
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1138,15.41,0.05,16656.51
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1407,15.41,0.03,21027.32
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,1131,15.59,0.05,16753.9
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1446,15.59,0.0,22547.48
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1386,15.59,0.08,19882.95
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,1283,15.78,0.03,19637.12
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1226,15.78,0.0,19345.05
+2026-05-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1640,15.78,0.05,24583.68
+2026-05-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,1288,9.33,0.0,12015.75
+2026-05-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1380,9.33,0.0,12874.02
+2026-05-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1335,9.33,0.03,12080.59
+2026-05-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1066,9.44,0.03,9764.25
+2026-05-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1360,9.44,0.03,12457.21
+2026-05-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1508,9.44,0.0,14240.04
+2026-05-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,1388,9.56,0.05,12601.86
+2026-05-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1458,9.56,0.08,12819.38
+2026-05-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1543,9.56,0.08,13566.73
+2026-05-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1261,9.67,0.0,12195.13
+2026-05-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1350,9.67,0.0,13055.85
+2026-05-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1343,9.67,0.0,12988.15
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1441,83.47,0.05,114266.26
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1682,83.47,0.0,140396.54
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1966,83.47,0.0,164102.02
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1384,84.49,0.0,116934.16
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1494,84.49,0.05,119916.66
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1501,84.49,0.03,123014.91
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1444,85.51,0.05,117302.62
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1339,85.51,0.0,114497.89
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1558,85.51,0.03,129227.84
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1337,86.53,0.0,115690.61
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1508,86.53,0.0,130487.24
+2026-05-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1512,86.53,0.0,130833.36
+2026-05-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1472,21.6,0.0,31801.09
+2026-05-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1588,21.6,0.0,34307.15
+2026-05-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1622,21.6,0.03,33990.44
+2026-05-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1344,21.87,0.0,29390.59
+2026-05-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1326,21.87,0.03,28127.06
+2026-05-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1750,21.87,0.05,36355.55
+2026-05-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1514,22.13,0.03,32502.61
+2026-05-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1274,22.13,0.03,27350.28
+2026-05-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1717,22.13,0.03,36860.62
+2026-05-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1636,22.4,0.05,34807.86
+2026-05-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1373,22.4,0.0,30749.71
+2026-05-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1857,22.4,0.0,41589.37
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1255,13.75,0.03,16736.13
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1445,13.75,0.03,19269.88
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1404,13.75,0.0,19302.19
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1403,13.92,0.05,18547.94
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1415,13.92,0.0,19691.14
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1932,13.92,0.03,26079.14
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1571,14.08,0.05,21019.67
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1616,14.08,0.05,21621.76
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,2022,14.08,0.03,27623.51
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1881,14.25,0.0,26808.01
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1689,14.25,0.0,24071.63
+2026-05-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1913,14.25,0.0,27264.08
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1489,26.51,0.03,38294.97
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1665,26.51,0.0,44145.81
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1558,26.51,0.0,41308.81
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1737,26.84,0.05,44286.73
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1977,26.84,0.03,51466.96
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,2034,26.84,0.08,50221.41
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1727,27.16,0.03,45501.51
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1419,27.16,0.0,38542.88
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1758,27.16,0.0,47750.8
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1758,27.49,0.08,44454.76
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1583,27.49,0.0,43510.34
+2026-05-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1624,27.49,0.0,44637.26
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,North,Retail Pharmacy,1002,12.28,0.0,12299.55
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,North,Hospital,1031,12.28,0.08,11643.08
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,North,E-commerce,1085,12.28,0.03,12918.82
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,South,Retail Pharmacy,988,12.43,0.0,12275.9
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,South,Hospital,855,12.43,0.0,10623.38
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,South,E-commerce,967,12.43,0.0,12014.98
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,East,Retail Pharmacy,996,12.57,0.0,12524.7
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,East,Hospital,1093,12.57,0.05,13057.25
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,East,E-commerce,952,12.57,0.05,11372.83
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,West,Retail Pharmacy,1048,12.72,0.05,12669.01
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,West,Hospital,1104,12.72,0.0,14048.4
+2026-06-01,P001,CardioRelief,Cardiovascular,Tablets,West,E-commerce,1333,12.72,0.0,16962.42
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,North,Retail Pharmacy,985,17.68,0.0,17410.86
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,North,Hospital,1235,17.68,0.0,21829.86
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,North,E-commerce,1071,17.68,0.05,17984.45
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,South,Retail Pharmacy,873,17.89,0.03,15151.12
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,South,Hospital,1301,17.89,0.05,22113.62
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,South,E-commerce,1231,17.89,0.0,22025.05
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,East,Retail Pharmacy,1059,18.11,0.03,18601.08
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,East,Hospital,1036,18.11,0.03,18197.09
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,East,E-commerce,1185,18.11,0.0,21457.98
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,West,Retail Pharmacy,1072,18.32,0.0,19643.33
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,West,Hospital,1043,18.32,0.0,19111.93
+2026-06-01,P002,GlucoCare,Diabetes,Tablets,West,E-commerce,965,18.32,0.0,17682.66
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,North,Retail Pharmacy,994,15.22,0.03,14675.78
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,North,Hospital,1233,15.22,0.03,18204.47
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,North,E-commerce,1404,15.22,0.0,21370.28
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,South,Retail Pharmacy,1237,15.41,0.03,18486.71
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,South,Hospital,1341,15.41,0.0,20660.79
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,South,E-commerce,1116,15.41,0.03,16678.39
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,East,Retail Pharmacy,1201,15.59,0.0,18727.19
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,East,Hospital,1330,15.59,0.0,20738.69
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,East,E-commerce,1431,15.59,0.0,22313.58
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,West,Retail Pharmacy,1212,15.78,0.0,19124.15
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,West,Hospital,1329,15.78,0.08,19292.67
+2026-06-01,P003,RespiraPlus,Respiratory,Capsules,West,E-commerce,1735,15.78,0.08,25186.44
+2026-06-01,P004,PainEase,Pain Management,Tablets,North,Retail Pharmacy,1276,9.33,0.05,11308.61
+2026-06-01,P004,PainEase,Pain Management,Tablets,North,Hospital,1303,9.33,0.03,11791.02
+2026-06-01,P004,PainEase,Pain Management,Tablets,North,E-commerce,1423,9.33,0.03,12876.91
+2026-06-01,P004,PainEase,Pain Management,Tablets,South,Retail Pharmacy,1137,9.44,0.08,9877.76
+2026-06-01,P004,PainEase,Pain Management,Tablets,South,Hospital,1386,9.44,0.0,13088.0
+2026-06-01,P004,PainEase,Pain Management,Tablets,South,E-commerce,1394,9.44,0.03,12768.64
+2026-06-01,P004,PainEase,Pain Management,Tablets,East,Retail Pharmacy,1390,9.56,0.0,13284.23
+2026-06-01,P004,PainEase,Pain Management,Tablets,East,Hospital,1237,9.56,0.08,10876.25
+2026-06-01,P004,PainEase,Pain Management,Tablets,East,E-commerce,1562,9.56,0.0,14928.03
+2026-06-01,P004,PainEase,Pain Management,Tablets,West,Retail Pharmacy,1269,9.67,0.03,11904.32
+2026-06-01,P004,PainEase,Pain Management,Tablets,West,Hospital,1535,9.67,0.05,14102.74
+2026-06-01,P004,PainEase,Pain Management,Tablets,West,E-commerce,1539,9.67,0.08,13692.98
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,North,Retail Pharmacy,1250,83.47,0.05,99120.62
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,North,Hospital,1284,83.47,0.0,107175.48
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,North,E-commerce,1404,83.47,0.0,117191.88
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,South,Retail Pharmacy,1237,84.49,0.0,104514.13
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,South,Hospital,1337,84.49,0.0,112963.13
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,South,E-commerce,1555,84.49,0.0,131381.95
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,East,Retail Pharmacy,1092,85.51,0.05,88708.07
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,East,Hospital,1575,85.51,0.05,127944.34
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,East,E-commerce,1671,85.51,0.0,142887.21
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,West,Retail Pharmacy,1377,86.53,0.0,119151.81
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,West,Hospital,1533,86.53,0.03,128670.98
+2026-06-01,P005,OncoSupport,Oncology Support,Injection,West,E-commerce,1412,86.53,0.05,116071.34
+2026-06-01,P006,DermaClear,Dermatology,Cream,North,Retail Pharmacy,1406,21.6,0.05,28856.46
+2026-06-01,P006,DermaClear,Dermatology,Cream,North,Hospital,1285,21.6,0.03,26928.31
+2026-06-01,P006,DermaClear,Dermatology,Cream,North,E-commerce,1019,21.6,0.0,22014.48
+2026-06-01,P006,DermaClear,Dermatology,Cream,South,Retail Pharmacy,1608,21.87,0.03,34108.83
+2026-06-01,P006,DermaClear,Dermatology,Cream,South,Hospital,1300,21.87,0.0,28428.4
+2026-06-01,P006,DermaClear,Dermatology,Cream,South,E-commerce,1556,21.87,0.03,33005.81
+2026-06-01,P006,DermaClear,Dermatology,Cream,East,Retail Pharmacy,1493,22.13,0.0,33043.08
+2026-06-01,P006,DermaClear,Dermatology,Cream,East,Hospital,1630,22.13,0.0,36075.16
+2026-06-01,P006,DermaClear,Dermatology,Cream,East,E-commerce,1631,22.13,0.0,36097.29
+2026-06-01,P006,DermaClear,Dermatology,Cream,West,Retail Pharmacy,1570,22.4,0.05,33403.63
+2026-06-01,P006,DermaClear,Dermatology,Cream,West,Hospital,1550,22.4,0.05,32978.11
+2026-06-01,P006,DermaClear,Dermatology,Cream,West,E-commerce,1386,22.4,0.03,30109.63
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,North,Retail Pharmacy,1435,13.75,0.0,19728.38
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,North,Hospital,1635,13.75,0.05,21354.08
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,North,E-commerce,1420,13.75,0.08,17960.39
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,South,Retail Pharmacy,1535,13.92,0.05,20293.01
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,South,Hospital,1936,13.92,0.05,25594.31
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,South,E-commerce,1650,13.92,0.0,22961.4
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,East,Retail Pharmacy,1549,14.08,0.05,20725.31
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,East,Hospital,1334,14.08,0.0,18788.06
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,East,E-commerce,1501,14.08,0.08,19448.88
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,West,Retail Pharmacy,1458,14.25,0.0,20779.42
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,West,Hospital,1816,14.25,0.0,25881.63
+2026-06-01,P007,GastroWell,Gastroenterology,Capsules,West,E-commerce,1589,14.25,0.0,22646.43
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,North,Retail Pharmacy,1192,26.51,0.08,29076.31
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,North,Hospital,1696,26.51,0.03,43618.71
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,North,E-commerce,1558,26.51,0.05,39243.37
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,South,Retail Pharmacy,1303,26.84,0.03,33920.82
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,South,Hospital,1821,26.84,0.05,46428.4
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,South,E-commerce,1685,26.84,0.05,42960.93
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,East,Retail Pharmacy,1749,27.16,0.03,46081.15
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,East,Hospital,1414,27.16,0.0,38407.07
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,East,E-commerce,1341,27.16,0.03,35331.51
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,West,Retail Pharmacy,1737,27.49,0.05,45356.02
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,West,Hospital,1557,27.49,0.05,40655.92
+2026-06-01,P008,NeuroBalance,Neurology,Tablets,West,E-commerce,1906,27.49,0.05,49768.9
